@@ -4,7 +4,7 @@ public class TestUtil {
 
 	
 	public void testutil(){
-		System.out.println("test utility");
+		System.out.println("utility");
 		
 	}
 }
